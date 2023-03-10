@@ -1,0 +1,135 @@
+-----------------------------------------------------------------------
+PURCHASED BOOKS BILL
+
+
+Customer: khue vo000
+Purchase Date: 2023-3-10 17:19:50
+Total books: 2
+Book 1:
+ISBN: 9780060987524
+Title: Beloved
+Author: Toni Morrison
+Language: English
+Publish Year: 1987
+Price: 9.99
+Input date: 2023-7-7
+
+Book 2:
+ISBN: 9780802123701
+Title: Between the World and Me
+Author: Ta-Nehisi Coates
+Language: English
+Publish Year: 2015
+Price: 14.99
+Input date: 2022-2-27
+
+Total money: 24.98$
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+PURCHASED BOOKS BILL
+
+
+Customer: kuuere2
+Purchase Date: 2023-3-10 17:7:44
+Total books: 2
+Book 1:
+ISBN: 9781984854780
+Title: Atomic Habits
+Author: James Clear
+Language: English
+Publish Year: 2018
+Price: 16.99
+Input date: 2022-3-1
+
+Book 2:
+ISBN: 9781984854780
+Title: Atomic Habits
+Author: James Clear
+Language: English
+Publish Year: 2018
+Price: 16.99
+Input date: 2022-3-1
+
+Total money: 33.98$
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+PURCHASED BOOKS BILL
+
+
+Customer: khue vo
+Purchase Date: 2023-3-10 17:7:32
+Total books: 2
+Book 1:
+ISBN: 9780385333849
+Title: The Lovely Bones
+Author: Alice Sebold
+Language: English
+Publish Year: 2002
+Price: 7.99
+Input date: 2023-3-7
+
+Book 2:
+ISBN: 9780385333849
+Title: The Lovely Bones
+Author: Alice Sebold
+Language: English
+Publish Year: 2002
+Price: 7.99
+Input date: 2023-3-7
+
+Total money: 15.98$
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+PURCHASED BOOKS BILL
+
+
+Customer: khue newewe
+Purchase Date: 2023-3-10 17:3:56
+Total books: 2
+Book 1:
+ISBN: 9780802123701
+Title: Between the World and Me
+Author: Ta-Nehisi Coates
+Language: English
+Publish Year: 2015
+Price: 14.99
+Input date: 2022-2-27
+
+Book 2:
+ISBN: 9780802123701
+Title: Between the World and Me
+Author: Ta-Nehisi Coates
+Language: English
+Publish Year: 2015
+Price: 14.99
+Input date: 2022-2-27
+
+Total money: 29.98$
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+PURCHASED BOOKS BILL
+
+
+Customer: khue vo123
+Purchase Date: 2023-3-10 17:3:48
+Total books: 2
+Book 1:
+ISBN: 9780385333849
+Title: The Lovely Bones
+Author: Alice Sebold
+Language: English
+Publish Year: 2002
+Price: 7.99
+Input date: 2023-3-7
+
+Book 2:
+ISBN: 9780735224292
+Title: The Dutch House
+Author: Ann Patchett
+Language: English
+Publish Year: 2019
+Price: 17.99
+Input date: 2022-2-15
+
+Total money: 25.98$
+-----------------------------------------------------------------------

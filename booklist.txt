@@ -1,0 +1,39 @@
+OOP'S BOOKSTORE.
+9780062315007;The Alchemist;Paulo Coelho;English;1988;11.99;75;2023-3-7
+9780061120084;1984;George Orwell;English;1949;10.99;30;2023-9-7
+9780553213102;Pride and Prejudice;Jane Austen;English;1813;7.99;20;2023-3-8
+9780141439563;Dracula;Bram Stoker;English;1897;9.99;40;2023-2-7
+9780544003415;The Hobbit;J.R.R. Tolkien;English;1937;14.99;15;2023-3-5
+9780679732241;Crime and Punishment;Fyodor Dostoyevsky;English;1866;11.99;10;2023-3-13
+9780553212471;Sense and Sensibility;Jane Austen;English;1811;8.99;30;2023-3-21
+9780449212600;One Hundred Years of Solitude;Gabriel Garcia Marquez;English;1967;12.99;50;2023-11-7
+9780060987524;Beloved;Toni Morrison;English;1987;9.99;24;2023-7-7
+9780385333849;The Lovely Bones;Alice Sebold;English;2002;7.99;75;2022-3-10
+9781594633669;All the Light We Cannot See;Anthony Doerr;English;2014;14.99;10;2023-3-7
+9780307456275;The Girl with the Dragon Tattoo;Stieg Larsson;English;2005;10.99;20;2021-3-8
+9781400079988;The Road;Cormac McCarthy;English;2006;8.99;30;2023-3-7
+9780553213102;The Fellowship of the Ring;J.R.R. Tolkien;English;1954;14.99;15;2023-3-5
+9780446310789;To Kill a Mockingbird;Harper Lee;English;1960;9.99;25;2023-3-7
+9780451524935;Frankenstein;Mary Shelley;English;1818;6.99;40;2020-3-14
+9781984854780;Atomic Habits;James Clear;English;2018;16.99;30;2022-5-1
+9781250762983;Project Hail Mary;Andy Weir;English;2021;24.99;20;2022-2-10
+9780735224292;The Dutch House;Ann Patchett;English;2019;17.99;15;2022-2-15
+9781250223189;The Testaments;Margaret Atwood;English;2019;19.99;18;2022-3-5
+9781501173219;Born a Crime;Trevor Noah;English;2016;12.99;12;2022-2-28
+9780802123701;Between the World and Me;Ta-Nehisi Coates;English;2015;14.99;7;2022-2-27
+9780525560533;Little Fires Everywhere;Celeste Ng;English;2017;15.99;22;2022-2-23
+9780062390688;The Immortal Life of Henrietta Lacks;Rebecca Skloot;English;2010;13.99;10;2022-2-25
+9780316017930;The Help;Kathryn Stockett;English;2009;11.99;7;2022-3-2
+9780593139134;Ready Player Two;Ernest Cline;English;2020;18.99;14;2022-2-18
+9781524763138;The Hate U Give;Angie Thomas;English;2017;16.99;20;2022-2-20
+9780593318171;The Midnight Library;Matt Haig;English;2020;21.99;28;2022-3-6
+9781501167997;A Man Called Ove;Fredrik Backman;English;2012;13.99;9;2022-2-26
+9781984882400;The Sanatorium;Sarah Pearse;English;2021;20.99;16;2022-2-22
+9780525426780;Gone Girl;Gillian Flynn;English;2012;15.99;12;2022-2-24
+9780735218864;Educated;Tara Westover;English;2018;16.99;25;2022-3-3
+9780593296684;The Vanishing Half;Brit Bennett;English;2020;19.99;23;2022-2-19
+9780385352542;All the Light We Cannot See;Anthony Doerr;English;2014;18.99;15;2022-2-16
+9780593352380;The Four Winds;Kristin Hannah;English;2021;22.99;27;2022-3-4
+9780385545927;The Testaments;Margaret Atwood;English;2019;21.99;20;2022-2-21
+9780593405269;The Maidens;Alex Michaelides;English;2021;24.99;19;2022-3-8
+4561237891234;khue va nhung nguoi ban;khue oc cho;tieng viet;2023;1;1;2023-3-10
